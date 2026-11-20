@@ -1,0 +1,17 @@
+{
+  "name": "helpdesk-api",
+  "version": "1.0.0",
+  "description": "API REST sencilla para gestionar incidencias y clientes de un servicio de soporte",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "jonkaso",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "picocolors": "^1.1.1"
+  }
+}
